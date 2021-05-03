@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Web Development and Software Engineering
 - 🌱 I’m currently learning ...JS,React JS,NodeJS,MongoDB,Express JS and Other New Technologies
 - 💬 Ask me about ...HTML,CSS,Bootstrap,Material UI,JavaScript,C,C++,and Java
-- 📫 How to reach me: ...<button><a target="_blank" href="google.com">Gmail</button> Facebook LinkedIn
+- 📫 How to reach me: ...Gmail--><a>omarshakil8@gmail.com</a>
 - ⚡ Fun fact: ...I'm Single yet..😄😄..
 <hr>
 
